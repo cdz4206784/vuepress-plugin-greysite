@@ -10,6 +10,10 @@
     "vuepress",
     "mourn"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdz4206784/vuepress-plugin-greysite.git"
+  },
   "author": "cuidezhu",
   "license": "ISC"
 }
