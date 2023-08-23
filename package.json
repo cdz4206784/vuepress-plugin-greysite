@@ -1,0 +1,15 @@
+{
+  "name": "vuepress-plugin-greysite",
+  "version": "0.0.1",
+  "description": "Plug-ins that grey your site for VuePress.",
+  "main": "src/index.js",
+  "keywords": [
+    "pray",
+    "gray",
+    "vue",
+    "vuepress",
+    "mourn"
+  ],
+  "author": "cuidezhu",
+  "license": "ISC"
+}
