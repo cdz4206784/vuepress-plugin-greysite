@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-greysite",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Plug-ins that grey your site for VuePress.",
   "main": "src/index.js",
   "keywords": [
